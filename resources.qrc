@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/go-last.png</file>
+        <file>Resources/media-playback-pause.png</file>
+        <file>Resources/media-playback-start.png</file>
+        <file>Resources/media-playback-stop.png</file>
+        <file>Resources/media-skip-backward.png</file>
+        <file>Resources/media-skip-forward.png</file>
+        <file>Resources/audio_opening.png</file>
+        <file>Resources/audio_track.png</file>
+        <file>Resources/audio_step.png</file>
+        <file>Resources/favicon.png</file>
+    </qresource>
+</RCC>

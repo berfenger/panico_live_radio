@@ -1,0 +1,99 @@
+﻿<contentset uuid="panico" name="Pánico en el Núcleo">
+	<!-- Opening -->
+	<section uuid="opening" name="Opening">
+		<track name="Hijos de la madrugada">1_opening/Hijos de la madrugada.mp3</track>
+	</section>
+
+	<!-- Sumario -->
+	<section uuid="sumario" name="Sumario">
+		<track name="Space">1_opening/space_sumario.ogg</track>
+	</section>
+
+	<!-- Noticias -->
+	<section uuid="noticias" name="Noticias" fadeOut="2000">
+		<track name="Waste My Time" isOpening="true">2_noticias/1_noticias_opening.mp3</track>
+		<track name="Live Fast Lie Down">2_noticias/Live Fast Lie Down.mp3</track>
+		<track name="These Dreams of Mine">2_noticias/These Dreams of Mine.mp3</track>
+		<track name="Begi Suka">2_noticias/Begi Suka.mp3</track>
+		<track name="Metido en un blues">2_noticias/Metido en un blues.mp3</track>
+		<track name="Mothershucking Fit">2_noticias/Mothershucking Fit.mp3</track>
+		<track name="Balrog Boogie">2_noticias/01 - Balrog Boogie.mp3</track>
+		<track name="Popsicle Summer">2_noticias/Popsicle Summer.mp3</track>
+	</section>
+	
+	<!-- Pongamonos tecnicos -->
+	<section uuid="pontec" name="Pongámonos técnicos" fadeOut="2000">
+		<track name="Tec cabecera" isOpening="true">3_pongam_tec/Pongámonos técnicos - cabecera.ogg</track>
+<track name="Fondo 3 (Orina)">3_pongam_tec/Pongámonos técnicos - fondo.ogg</track>
+		<track name="Kibako">3_pongam_tec/kibako_cortada.ogg</track>
+		<track name="Fondo 2">3_pongam_tec/otra - pongamonos tecnicos.mp3</track>
+		
+	</section>
+
+	<!-- El cazador de mitos -->
+	<section uuid="mitos" name="El cazador de mitos" fadeOut="2000">
+		<track name="Mitos cabecera" isOpening="true">4_cazador_mitos/El cazador de mitos - cabecera.ogg</track>
+		<track name="Mitos fondo">4_cazador_mitos/El cazador de mitos - fondo.mp3</track>
+	</section>
+
+	<!-- Que los trague el demonio -->
+	<section uuid="traguedemonio" name="Que los trague el demonio" fadeOut="2000">
+		<track name="Demon cabecera" isOpening="true">7_que_los_trague/que_los_trague_opening.ogg</track>
+		<track name="Demon fondo">7_que_los_trague/que_los_trague_fondo.mp3</track>
+	</section>
+
+	<!-- Migrando me ando -->
+	<section uuid="migrando" name="Migrando me ando" fadeOut="2000">
+		<track name="Migrando opening" isOpening="true">8_migrando_me/migrando_opening.ogg</track>
+		<track name="Migrando fondo">8_migrando_me/migrando_fondo.mp3</track>
+	</section>
+
+	<!-- Moviles y cosas moviles -->
+	<section uuid="moviles" name="Móviles y cosas móviles" fadeOut="2000">
+		<track name="Moviles opening" isOpening="true">12_moviles/moviles_opening.ogg</track>
+		<track name="Moviles fondo">12_moviles/moviles_fondo.mp3</track>
+		<track name="When Waves Trying to Catch a Marvel">12_moviles/01 - Antony Raijekov - When Waves Trying to Catch a Marvel.ogg</track>
+	</section>
+
+	<!-- Monografico -->
+	<section uuid="monografico" name="Monografico" fadeOut="2000">
+		<track name="Monografico opening" isOpening="true">11_monografico/cabecera_monografico.ogg</track>
+		<track name="Born to gruf">11_monografico/Born To Gruf.mp3</track>
+	</section>
+
+	<!-- Uala nen como mola -->
+	<section uuid="ualanen" name="Uala nen como mola!" fadeOut="2000">
+		<track name="Ualanen opening" isOpening="true">9_uala_nen/uala_neng_opening.mp3</track>
+		<track name="Ualanen fondo">9_uala_nen/uala_neng_fondo.mp3</track>
+	</section>
+
+	<!-- Los jueguecicos de las narices -->
+	<section uuid="jueguecicos" name="Los jueguecicos de las narices" fadeOut="2000">
+		<track name="Tec cabecera" isOpening="true">10_jueguecicos/Jueguecicos_opening.ogg</track>
+		<track name="Potential for anything">10_jueguecicos/10 potential for anything.mp3</track>
+		<track name="Positive force">10_jueguecicos/07 positive force.mp3</track>
+	</section>
+
+	<!-- Oyentes -->
+	<section uuid="oyentes" name="Oyentes" fadeOut="2000" preStepFadeOut="2000">
+		<track name="Comming Home" isOpening="true">5_oyentes/1_oyentes_opening.mp3</track>
+		<track name="Making Me Nervous">5_oyentes/Making Me Nervous.mp3</track>
+		<track name="Mothershucking Fit">5_oyentes/Mothershucking Fit.mp3</track>
+		<track name="Best Days">5_oyentes/lista_oyentes_x.mp3</track>
+		<track name="Tripping">5_oyentes/Tripping.mp3</track>
+		<track name="No Nos Pertenece">5_oyentes/No Nos Pertenece.mp3</track>
+		<track name="Fistro filostro" isStep="true">fistro/ciusbet.ogg</track>
+		<track name="Fistro nekochan" isStep="true">fistro/2_fistrowar_filostro.ogg</track>
+	</section>
+
+	<!-- Ending -->
+	<section uuid="ending" name="Ending">
+		<track name="Ending">6_ending/Ending.mp3</track>
+	</section>
+
+	<!-- Preopening -->
+	<section uuid="preopening" name="Pre Opening">
+		<track name="Deep Sea Diver">99_preopening/Deep Sea Diver.mp3</track>
+		<track name="It Happens All The Time">99_preopening/It Happens All The Time.mp3</track>
+	</section>
+</contentset>
